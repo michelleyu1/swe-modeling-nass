@@ -1,3 +1,4 @@
 data_scripts/combine_prism.ipynb
 data_scripts/fetch_snotel_data_ucrb.ipynb
-.ipynb_checkpoint
+.ipynb_checkpoints
+.gitignore
